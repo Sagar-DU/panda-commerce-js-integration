@@ -6,8 +6,8 @@ for (const headings of h3){
 }
 
 //changing background color of the backpack heading
-const backpackTitle = document.getElementById("backpack-title");
-backpackTitle.style.backgroundColor = "coral";
+// const backpackTitle = document.getElementById("backpack-title");
+// backpackTitle.style.backgroundColor = "coral";
 
 //changing card
 const card = document.getElementsByClassName("card");
